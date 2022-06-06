@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Kronia Technologies 
     url: https://kroniatech.com/
-  - name: Wiki
+  - name: WikiNotes
     url: https://en.wikipedia.org
 
 status-website:
