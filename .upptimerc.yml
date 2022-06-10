@@ -5,6 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Kronia Technologies 
     url: https://kroniatech.com/
+    maxResponseTime: 5000
   - name: WikiNotes
     url: https://en.wikipedia.org
 
@@ -14,7 +15,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://media-exp2.licdn.com/dms/image/C560BAQGviJ4SbENwug/company-logo_200_200/0/1654119552543?e=1662595200&v=beta&t=duszmZX28fl0-D4ts_U--_E3-y3-DMtYUn6pUe9yUV4
-  name: KroniaTech Service Status
+  name: Kronia Techologies Service Status
   introMessage: This is Kronia Kronia Technologies Service Status Monitoring
   navbar:
     - title: Status
