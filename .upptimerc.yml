@@ -14,7 +14,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://media-exp2.licdn.com/dms/image/C560BAQGviJ4SbENwug/company-logo_200_200/0/1654119552543?e=1662595200&v=beta&t=duszmZX28fl0-D4ts_U--_E3-y3-DMtYUn6pUe9yUV4
-  name: Upptime
+  name: KroniaTech Service Status
   introMessage: This is Kronia Kronia Technologies Service Status Monitoring
   navbar:
     - title: Status
