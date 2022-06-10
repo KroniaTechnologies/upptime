@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/kroniatech.com",
     "slug": "kronia-technologies",
     "status": "down",
-    "uptime": "88.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "88.96%",
-    "uptimeMonth": "88.96%",
-    "uptimeYear": "88.96%",
+    "uptime": "81.70%",
+    "uptimeDay": "73.66%",
+    "uptimeWeek": "81.70%",
+    "uptimeMonth": "81.70%",
+    "uptimeYear": "81.70%",
     "time": 5194,
-    "timeDay": 5291,
+    "timeDay": 0,
     "timeWeek": 5194,
     "timeMonth": 5194,
     "timeYear": 5194,
     "dailyMinutesDown": {
-      "2022-06-09": 0,
+      "2022-06-10": 121,
+      "2022-06-09": 259,
       "2022-06-08": 289,
       "2022-06-07": 184
     }
@@ -32,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 370,
-    "timeDay": 223,
-    "timeWeek": 370,
-    "timeMonth": 370,
-    "timeYear": 370,
+    "time": 336,
+    "timeDay": 165,
+    "timeWeek": 336,
+    "timeMonth": 336,
+    "timeYear": 336,
     "dailyMinutesDown": {}
   }
 ]
