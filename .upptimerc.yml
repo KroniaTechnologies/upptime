@@ -5,10 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Kronia Technologies 
     url: https://kroniatech.com/
-    maxResponseTime: 7000
+    maxResponseTime: 4000
   - name: Kronia Technologies QA
     url: https://qa.kroniatech.com/
-    maxResponseTime: 7000
+    maxResponseTime: 4000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -17,7 +17,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://media-exp2.licdn.com/dms/image/C560BAQGviJ4SbENwug/company-logo_200_200/0/1654119552543?e=1662595200&v=beta&t=duszmZX28fl0-D4ts_U--_E3-y3-DMtYUn6pUe9yUV4
   name: Kronia Techologies Service Status
-  introMessage: This is Kronia Kronia Technologies Service Status Monitoring
+  introMessage: This is Kronia Technologies Service Status Monitoring
   navbar:
     - title: Status
       href: /
